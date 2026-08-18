@@ -11,6 +11,21 @@
 - **خصوصية عالية:** بدون إعلانات أو تتبع.
 - **دعم لغات متعدد:** يدعم مجموعة واسعة من اللغات العالمية.
 
+
+TransKey: مترجم لوحة المفاتيح الفوري لنظام ويندوز
+
+TransKey هو تطبيق مساعد خففت وزنه ومفتوح المصدر لنظام ويندوز، مصمم ليقدم لك تجربة ترجمة سلسة وفورية مباشرة داخل حقول إدخال النصوص.
+صُمم التطبيق خصيصاً للسرعة والراحة؛ حيث يتيح لك كتابة رسالتك ثم ترجمتها لحظياً بمجرد ضغطة واحدة على مفتاح Enter، مما يغنيك تماماً عن النسخ واللصق اليدوي أو التنقل بين النوافذ الخارجية.
+✨ الميزات الرئيسية
+:ترجمة فورية بضغط زر: يقوم بترجمة واستبدال النص المدخل ديناميكياً داخل أي تطبيق (تطبيقات المحادثة، الألعاب، المستندات، وغيرها) بضغطة مفتاح واحدة.
+دعم واسع للغات: يحتوي على قاموس مدمج يضم مجموعة ضخمة من اللغات العالمية والإقليمية.
+خفيف ومستقل: يعمل بسلاسة كملف تنفيذي منفرد (.exe) دون الحاجة لعمليات خلفية ثقيلة، أو تثبيت معقد، أو تسجيل دخول.
+نظيف ويهتم بالخصوصية: خالٍ تماماً من الإعلانات المزعجة، التتبّع غير الضروري، أو الاشتراكات الإجبارية.
+التكامل مع شريط المهام: يعمل بهدوء في صينية النظام (System Tray) لضمان الوصول السريع والسهل.
+📥 التحميل والدعم:إصدارات GitHub: يمكنك تحميل أحدث نسخة .exe من تبويب الإصدارات (Releases).  دعم المطور: إذا وجدت هذه الأداة مفيدة وترغب في دعم التحديثات القادمة، يمكنك دعمنا عبر (اشترِ لي قهوة / PayPal) ☕. 
+
+
+https://www.paypal.com/ncp/payment/89LHGMYVMVF4E
 ---
 
 ### English
@@ -22,6 +37,17 @@
 - **Privacy-Focused:** No ads, no tracking, and no hidden data collection.
 - **Wide Language Support:** Supports a vast range of global languages.
 
+TransKey: Real-Time Keyboard Translator for WindowsTransKey is a lightweight, open-source utility software for Windows that provides seamless, real-time translation right inside your text input fields.
+Designed for speed and convenience, it allows you to type your message and instantly translate it by pressing the Enter key—eliminating the need for manual copy-pasting or switching between external windows. 
+✨ Key Features:Instant
+Enter-Triggered Translation: Translates and replaces your input text dynamically inside any application (chat apps, games, documents, etc.) with a single keystroke. 
+Extensive Language Support: Built-in dictionary featuring a wide range of global and regional languages.Lightweight & Standalone: Runs smoothly as a single executable (.exe) file without requiring heavy background processes, installation, or complex user logins. 
+Clean & Privacy-Focused: No annoying ads, unnecessary tracking, or mandatory subscriptions. 
+System Tray Integration: Runs quietly in the system tray for quick access.📥
+Download & Support:GitHub Releases: Download the latest .exe version from the Releases tab.Support the Developer: If you find this tool helpful and want to support future updates, you can Buy Me a Coffee / PayPal ☕.(You can copy and paste this directly into your GitHub README.md file or project description!)
+
+
+https://www.paypal.com/ncp/payment/89LHGMYVMVF4E
 ---
 
 ### 中文 (Chinese)
